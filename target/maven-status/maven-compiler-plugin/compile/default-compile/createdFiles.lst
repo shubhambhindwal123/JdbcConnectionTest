@@ -1,0 +1,3 @@
+com\test\util\PropertiesReader.class
+com\test\connection\JdbcConnection.class
+com\test\util\PConstants.class
